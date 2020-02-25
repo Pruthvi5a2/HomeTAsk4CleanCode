@@ -36,7 +36,7 @@ public class IntrestCal implements ActionListener
 			f.add(buttonforCompIntrest);
 			f.add(textforCompIntrest);
 			f.add(ExitButton);
-			lableforCompIntrest.setBounds(100,60,200,20);
+			lableforPrinAmount.setBounds(100,60,200,20);
 			textforPrinAmount.setBounds(120,100,100,30);
 			lableforTimePeriod.setBounds(115,140,200,20);
 			textforTImePeriod.setBounds(120,180,100,30);
